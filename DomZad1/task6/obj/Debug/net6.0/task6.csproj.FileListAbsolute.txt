@@ -1,0 +1,15 @@
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\bin\Debug\net6.0\task6.exe
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\bin\Debug\net6.0\task6.deps.json
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\bin\Debug\net6.0\task6.dll
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\bin\Debug\net6.0\task6.pdb
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.dll
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\refint\task6.dll
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.pdb
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+N:\Web_Rab\C#\SharpPrograms\Seminar01\DZ_1\task6\obj\Debug\net6.0\ref\task6.dll
