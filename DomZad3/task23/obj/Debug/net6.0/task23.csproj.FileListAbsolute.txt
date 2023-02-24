@@ -1,0 +1,15 @@
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\bin\Debug\net6.0\task23.exe
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\bin\Debug\net6.0\task23.deps.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\bin\Debug\net6.0\task23.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\bin\Debug\net6.0\task23.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\refint\task23.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task23\obj\Debug\net6.0\ref\task23.dll
