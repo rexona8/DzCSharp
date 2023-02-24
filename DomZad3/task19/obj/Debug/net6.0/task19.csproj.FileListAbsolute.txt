@@ -1,0 +1,15 @@
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\bin\Debug\net6.0\task19.exe
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\bin\Debug\net6.0\task19.deps.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\bin\Debug\net6.0\task19.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\bin\Debug\net6.0\task19.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\refint\task19.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad3\task19\obj\Debug\net6.0\ref\task19.dll
