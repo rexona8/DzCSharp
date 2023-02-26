@@ -1,0 +1,15 @@
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\bin\Debug\net6.0\task25.exe
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\bin\Debug\net6.0\task25.deps.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\bin\Debug\net6.0\task25.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\bin\Debug\net6.0\task25.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\refint\task25.dll
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.pdb
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+N:\Web_Rab\C#\SharpPrograms\DzC#\DomZad4\task25\obj\Debug\net6.0\ref\task25.dll
