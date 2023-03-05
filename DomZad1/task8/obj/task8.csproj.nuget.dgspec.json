@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Web_Rab\\C#\\SharpPrograms\\Seminar01\\DZ_1\\task8\\task8.csproj": {}
+    "N:\\Web_Rab\\C#\\SharpPrograms\\DzC#\\DomZad1\\task8\\task8.csproj": {}
   },
   "projects": {
-    "N:\\Web_Rab\\C#\\SharpPrograms\\Seminar01\\DZ_1\\task8\\task8.csproj": {
+    "N:\\Web_Rab\\C#\\SharpPrograms\\DzC#\\DomZad1\\task8\\task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Web_Rab\\C#\\SharpPrograms\\Seminar01\\DZ_1\\task8\\task8.csproj",
+        "projectUniqueName": "N:\\Web_Rab\\C#\\SharpPrograms\\DzC#\\DomZad1\\task8\\task8.csproj",
         "projectName": "task8",
-        "projectPath": "N:\\Web_Rab\\C#\\SharpPrograms\\Seminar01\\DZ_1\\task8\\task8.csproj",
+        "projectPath": "N:\\Web_Rab\\C#\\SharpPrograms\\DzC#\\DomZad1\\task8\\task8.csproj",
         "packagesPath": "C:\\Users\\niko9\\.nuget\\packages\\",
-        "outputPath": "N:\\Web_Rab\\C#\\SharpPrograms\\Seminar01\\DZ_1\\task8\\obj\\",
+        "outputPath": "N:\\Web_Rab\\C#\\SharpPrograms\\DzC#\\DomZad1\\task8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\niko9\\AppData\\Roaming\\NuGet\\NuGet.Config"
