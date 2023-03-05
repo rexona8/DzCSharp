@@ -11,11 +11,15 @@ if (number1 > number2 && number1 > number3)
 {
     System.Console.Write("Максимальное число: " + number1);
 }
-if (number2 > number1 && number2 > number3)
+else if (number2 > number1 && number2 > number3)
 {
     System.Console.Write("Максимальное число: " + number2);
 }
-if (number3 > number1 && number3 > number2)
+else if (number3 > number1 && number3 > number2)
 {
     System.Console.Write("Максимальное число: " + number3);
+}
+else
+{
+    System.Console.WriteLine("Числа равны");
 }
